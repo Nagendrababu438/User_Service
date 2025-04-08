@@ -24,8 +24,8 @@ PUT	/api/users/{id}	Update user details
 DELETE	/api/users/{id}	Delete a use
 --------
 🧪 Testing
-mvn test
+:mvn test
 -------
-Run the Application
-mvn clean install
+Run the Application:
+mvn clean install ,
 mvn spring-boot:run
